@@ -8,17 +8,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://dulanjaya@surge.global
+ * @link              https://dulanjaya.me
  * @since             1.0.0
  * @package           S_Marvel
  *
  * @wordpress-plugin
  * Plugin Name:       S-Marvel
- * Plugin URI:        https://www.surge.global
+ * Plugin URI:        https://www.dulanjaya.me
  * Description:       This plugin is created for training purposes using Marvel API. I have created the listing page and the detail page. Just click on the activate button to see how it works.
  * Version:           1.0.0
  * Author:            Dulanjaya
- * Author URI:        https://dulanjaya@surge.global/
+ * Author URI:        https://dulanjaya.me
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       s-marvel
