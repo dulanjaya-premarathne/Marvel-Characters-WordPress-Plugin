@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "S_Marvel\\": "includes/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
